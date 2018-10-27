@@ -29,7 +29,7 @@ define('DB_USER', 'id7640624_root');
 define('DB_PASSWORD', 'SenhaSiteEtecSjc');
 
 /** MySQL hostname */
-define('DB_HOST', 'https://databases.000webhost.com');
+define('DB_HOST', 'localhost');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
